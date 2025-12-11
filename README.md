@@ -1,4 +1,4 @@
-# 🇧🇷 Análise Completa da Qualidade da Educação no Brasil (IDEB)
+# Análise Completa da Qualidade da Educação no Brasil (IDEB)
 
 ## 📌 Visão Geral do Projeto
 Este projeto demonstra todas as etapas de um processo profissional de Análise de Dados. O foco é investigar a evolução e as disparidades do **Índice de Desenvolvimento da Educação Básica (IDEB)** entre os estados e diferentes redes de ensino (Pública vs. Privada) no Brasil, utilizando dados do INEP referentes ao período de 2005 a 2021.
